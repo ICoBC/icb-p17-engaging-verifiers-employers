@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-P17",
+  "repository": "icb-p17-engaging-verifiers-employers",
+  "repository_url": "https://github.com/ICoBC/icb-p17-engaging-verifiers-employers",
+  "title": "Engaging Verifiers and Employers",
+  "subtitle": "Making credentials count outside the issuing organisation.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Ecosystem and recognition partnerships",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-ECOS-L3-A",
+  "badge_name": "Engaging Verifiers and Employers (Ability, L3)",
+  "hours": "6",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p17/",
+  "parts": [
+    "About this course",
+    "Mapping verifiers",
+    "Verifier research",
+    "Co-design",
+    "Pilot agreements",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 18
+}
